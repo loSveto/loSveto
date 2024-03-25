@@ -1,4 +1,4 @@
-# NEGRO
+# ciao
 
 ## Studente dell'isiss Scarpa di Motta
 
@@ -14,3 +14,7 @@ int ciao = 2;
 
 -puntato
 
+I miei interessi sono:
+- Il cioccolato
+- I muletti
+- Gli estintori
