@@ -1,4 +1,4 @@
-# Ciao sono ...
+# NEGRO
 
 ## Studente dell'isiss Scarpa di Motta
 
@@ -14,4 +14,3 @@ int ciao = 2;
 
 -puntato
 
-#NEGRO
